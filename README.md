@@ -1,2 +1,3 @@
 # hello-world
-A repository to say hello to the world.
+
+Hello! Yes, hello to you. Yes, I knew you would come to read this. How? I just knew.
